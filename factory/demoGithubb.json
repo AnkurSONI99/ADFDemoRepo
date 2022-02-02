@@ -1,0 +1,9 @@
+{
+	"name": "demoGithubb",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "0c1a110c-1a43-4076-9fde-ebdd77446af9",
+		"tenantId": "e4e34038-ea1f-4882-b6e8-ccd776459ca0"
+	}
+}
